@@ -1,21 +1,34 @@
 Modpack info file [1]:
-	<MODPACK NICE NAME> (displayed to user on technic site and launcher)
-	<MODPACK LINK> (unknown purpose)
-	<RECOMMENDED/LATEST VERSION> (used in the launcher) (TODO: make these separate options)
+
+MODPACK NICE NAME - displayed to user on technic site and launcher
+
+MODPACK LINK  - unknown purpose
+
+RECOMMENDED/LATEST VERSION - used in the launcher (TODO: make these separate options)
 
 Modpack version info file [2]:
-	<MINECRAFT VERSION> (tells launcher what version to use)
-	<MINECRAFT MD5> (unknown purpose)
-	<FORGE VERSION> (unknown purpose, you can use a 'mod' to apply forge)
+
+MINECRAFT VERSION - tells launcher what version to use
+
+MINECRAFT MD5 - unknown purpose
+
+ORGE VERSION - unknown purpose, you can use a 'mod' to apply forge
 
 Mod info file [3]:
-	<SLUG> (small identifier for the mod)
-	<VERSION> (used for updating a modpack to reduce downloads)
-	<MD5> (used to spot download errors, you can leave this blank)
-	<PRETTY NAME> (used on the technic site)
-	<AUTHOR> (used on the technic site)
-	<LINK> (used on the technic site)
-	<DESCRIPTION> (used on the technic site, multiline)
+
+SLUG - small identifier for the mod
+
+VERSION - used for updating a modpack to reduce downloads
+
+MD5 - used to spot download errors, you can leave this blank
+
+PRETTY NAME - used on the technic site
+
+AUTHOR - used on the technic site
+
+LINK - used on the technic site
+
+DESCRIPTION - used on the technic site, multiline
 
 
 Using the server:
